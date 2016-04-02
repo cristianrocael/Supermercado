@@ -1,6 +1,6 @@
 # Máquina Registradora
 
-La meta en este proyecto es que puedas crear un aplicacion que utilice los Listas de python, tienes que realizar un programa que permita al gerente de una tienda ingresar n artículos con su respectivo precio a una estructura de datos. 
+La meta en este proyecto es que puedas crear un aplicacion que utilice Listas de python, tienes que realizar un programa que permita al gerente de una tienda ingresar n artículos con su respectivo precio a una estructura de datos. 
 
     Nota: antes de ingresar los artículos a la estructura de datos, 
     el usuario debe de decir el valor de n.
