@@ -1,26 +1,27 @@
-# Supermercado
-	Primer Proyecto con valor de 30pts
+# Máquina Registradora
 
-# Conceptos Requeridos
-	1.  Variables.
-	2.  If/Else statements.
-	3.  Numeros enteros.
-	4.  Input/Output.
-	5.  Print.
-	6.  While or For Loops.
-	7.  Objects.
-	8.  Functions
-	9.  Documentation.
-	10. isalpha() Function
+La meta en este proyecto es que puedas crear un aplicacion que utilice los Listas de python, tienes que realizar un programa que permita al gerente de una tienda ingresar n artículos con su respectivo precio a una estructura de datos. 
 
-# I/O
+    Nota: antes de ingresar los artículos a la estructura de datos, 
+    el usuario debe de decir el valor de n.
 
-#### Input Values
-	1. Se debe tomar en cuenta la validación de los datos introducidos por el usuario.
-	2. Puede utilizar palabras o números al usuario para elegir sus opciones.
+Despues de que el gerente ingrese los productos el programa debe permitirle al cajero ingresar una serie de artículos por su respectivo nombre. Al finalizar el ingreso de artículos el programa debe de dar el precio total que corresponde a la suma de artículos y sacar el valor del IVA. 
 
-#### Output messages
-	1. Recuerde mostrar su apoyo al usuario cuando el usuario hace algo incorrecto.
+Al momento de calcular el total si el cliente del establecimiento tiene tarjeta de `cliente frecuente Gold` se le debe de rebajar un 5% si tiene tarjeta de `cliente frecuente silver` se le debe de rebajar un 2%. **(Simulando una venta)**
+
+
+## Conceptos Requeridos
+
+      1.  Variables
+      2.  Float numbers
+      3.  Integer numbers
+      4.  Input/Output
+      5.  Print
+      6.  If/Else statements
+      7.  Loops 
+      8.  Arrays
+      9. Functions
+      10. Documentation
 
 ### Entrega
   Sabado 9/Abril/2016
