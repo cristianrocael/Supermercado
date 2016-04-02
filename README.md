@@ -1,7 +1,4 @@
 # Supermercado
-
-# Search Engine
-
 	Primer Proyecto con valor de 30pts
 
 # Conceptos Requeridos
